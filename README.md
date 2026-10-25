@@ -5,7 +5,8 @@ A simple desktop to-do list built with Python and Tkinter. No accounts, no inter
 I made this as a small project to practice Tkinter, multi-page GUIs, and saving data to a file.
 ## Preview 📸.
 <h1>Home page</h1><br>
-<img width="493" height="522" alt="image" src="https://github.com/user-attachments/assets/cf8521a0-e402-4f16-b426-dec68fa63c43" /><br>
+<img width="493" height="530" alt="Screenshot 2026-10-25 211556" src="https://github.com/user-attachments/assets/3dd1fbe5-52a8-4c82-a3c8-d65ba8e3c781" />
+
 <h2>Adding Task</h2><br>
 <img width="492" height="531" alt="Screenshot 2026-10-25 211627" src="https://github.com/user-attachments/assets/bcc40726-213b-4db0-942d-a5e5bceaf306" /><br>
 
