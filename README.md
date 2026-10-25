@@ -3,6 +3,20 @@
 A simple desktop to-do list built with Python and Tkinter. No accounts, no internet, no extra libraries. Add your tasks, tick them off, and they're still there the next time you open the app.
 
 I made this as a small project to practice Tkinter, multi-page GUIs, and saving data to a file.
+## Preview 📸.
+<h1>Home page</h1><br>
+<img width="493" height="522" alt="image" src="https://github.com/user-attachments/assets/cf8521a0-e402-4f16-b426-dec68fa63c43" /><br>
+<h2>Adding Task</h2><br>
+<img width="492" height="531" alt="Screenshot 2026-10-25 211627" src="https://github.com/user-attachments/assets/bcc40726-213b-4db0-942d-a5e5bceaf306" /><br>
+
+<h2>View Tassk</h2><br>
+<img width="487" height="526" alt="Screenshot 2026-10-25 211642" src="https://github.com/user-attachments/assets/2ad221cc-1577-468a-8ebc-35c3d35ac1d7" /><br>
+
+<h2>Complete Task</h2><br>
+<img width="492" height="526" alt="Screenshot 2026-10-25 211658" src="https://github.com/user-attachments/assets/b17923f0-19e0-46e9-b525-5802ce728438" /><br>
+<h2>Delete Task</h2><br>
+<img width="493" height="522" alt="Screenshot 2026-10-25 211715" src="https://github.com/user-attachments/assets/c6bb3296-bb02-4d96-9113-99bd525e934f" /><br>
+
 
 ## What it can do
 
